@@ -177,7 +177,7 @@ export default function Home() {
 								smooth={true}
 								offset={-70}
 								duration={500}
-								className="py-2 px-4 text-white font-semibold transition-all duration-300 cursor-pointer rounded hover:bg-yellow-600 hover:scale-100"
+								className="py-2 px-4 text-white font-semibold transition-all duration-300 cursor-pointer rounded hover:bg-yellow-600 hover:scale-125"
 							>
 								Home
 							</Link>
@@ -187,7 +187,7 @@ export default function Home() {
 								smooth={true}
 								offset={-70}
 								duration={500}
-								className="py-2 px-4 text-white font-semibold transition-all duration-300 cursor-pointer rounded hover:bg-yellow-600 hover:scale-105"
+								className="py-2 px-4 text-white font-semibold transition-all duration-300 cursor-pointer rounded hover:bg-yellow-600 hover:scale-125"
 							>
 								Heritage
 							</Link>
@@ -197,7 +197,7 @@ export default function Home() {
 								smooth={true}
 								offset={-70}
 								duration={500}
-								className="py-2 px-4 text-white font-semibold transition-all duration-300 cursor-pointer rounded hover:bg-yellow-600 hover:scale-110"
+								className="py-2 px-4 text-white font-semibold transition-all duration-300 cursor-pointer rounded hover:bg-yellow-600 hover:scale-125"
 							>
 								Models
 							</Link>
@@ -285,7 +285,7 @@ export default function Home() {
 										<img
 											src={F1}
 											alt="McLaren F1"
-											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-150"
+											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-125"
 										/>
 									</div>
 								</div>
@@ -319,7 +319,7 @@ export default function Home() {
 										<img
 											src={MP4}
 											alt="McLaren MP4-12C"
-											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-150"
+											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-125"
 										/>
 									</div>
 								</div>
@@ -352,7 +352,7 @@ export default function Home() {
 										<img
 											src={P1}
 											alt="McLaren P1"
-											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-150"
+											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-125"
 										/>
 									</div>
 								</div>
@@ -385,7 +385,7 @@ export default function Home() {
 										<img
 											src={S650}
 											alt="McLaren 650S"
-											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-150"
+											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-125"
 										/>
 									</div>
 								</div>
@@ -423,7 +423,7 @@ export default function Home() {
 										<img
 											src={S570}
 											alt="McLaren 570S"
-											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-150"
+											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-125"
 										/>
 									</div>
 								</div>
@@ -457,7 +457,7 @@ export default function Home() {
 										<img
 											src={LT675}
 											alt="McLaren 675LT"
-											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-150"
+											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-125"
 										/>
 									</div>
 								</div>
@@ -498,7 +498,7 @@ export default function Home() {
 										<img
 											src={S720W}
 											alt="McLaren 720S White"
-											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-150"
+											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-125"
 										/>
 									</div>
 								</div>
@@ -529,7 +529,7 @@ export default function Home() {
 										<img
 											src={LT600}
 											alt="McLaren 600LT"
-											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-150"
+											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-125"
 										/>
 									</div>
 								</div>
@@ -560,7 +560,7 @@ export default function Home() {
 						<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
 							{/* McLaren 765LT Flip Card */}
 							<div
-								className={`${styles.flipCard} transform transition duration-500 hover:scale-150`}
+								className={`${styles.flipCard} transform transition duration-500 hover:scale-125`}
 							>
 								<div className={styles.flipCardInner}>
 									{/* Front */}
