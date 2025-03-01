@@ -1,0 +1,9 @@
++ browserslist@4.24.4
++ jquery@3.7.1
+added 3 packages from 3 contributors, removed 1 package, updated 2 packages and audited 762 packages in 17.968s
+
+71 packages are looking for funding
+  run `npm fund` for details
+
+found 54 vulnerabilities (1 low, 32 moderate, 17 high, 4 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
