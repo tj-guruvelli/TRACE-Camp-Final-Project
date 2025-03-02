@@ -498,7 +498,7 @@ export default function Home() {
 										<img
 											src={S720W}
 											alt="McLaren 720S White"
-											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-125"
+											className="rounded-lg shadow-lg transform transition duration-500 hover:scale-110"
 										/>
 									</div>
 								</div>
@@ -559,9 +559,7 @@ export default function Home() {
 
 						<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
 							{/* McLaren 765LT Flip Card */}
-							<div
-								className={`${styles.flipCard} transform transition duration-500 hover:scale-125`}
-							>
+							<div className={`${styles.flipCard}`}>
 								<div className={styles.flipCardInner}>
 									{/* Front */}
 									<div
